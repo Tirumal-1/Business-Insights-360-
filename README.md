@@ -4,8 +4,11 @@ This project focuses on delivering actionable insights through an interactive Po
 The dashboard includes:
 
 Sales Overview: Visual insights into sales performance, growth rates, and top-performing products.
+
 Customer Insights: Analysis of customer behavior and revenue trends to enhance decision-making.
+
 Supply Chain Analytics: Monitoring supply chain variances and operational efficiency for improved logistics.
+
 How to Access the Dashboard:
 Click here to view the live Power BI dashboard.
 Ensure you have an internet connection and a Power BI-compatible browser to experience the interactive features.

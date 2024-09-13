@@ -9,3 +9,10 @@ Supply Chain Analytics: Monitoring supply chain variances and operational effici
 How to Access the Dashboard:
 Click here to view the live Power BI dashboard.
 Ensure you have an internet connection and a Power BI-compatible browser to experience the interactive features.
+
+
+How to Access the Dashboard:
+Click below to view the live Power BI dashboard.
+Ensure you have an internet connection and a Power BI-compatible browser to experience the interactive features.
+[**Click here to view the live Power BI dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZTBiYzkwNDYtZDc4MC00NjBjLTk1ZDAtOTdlODM0Mzc4NjEzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+

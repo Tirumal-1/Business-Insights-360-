@@ -9,9 +9,7 @@ Customer Insights: Analysis of customer behavior and revenue trends to enhance d
 
 Supply Chain Analytics: Monitoring supply chain variances and operational efficiency for improved logistics.
 ![Description of Image](https://github.com/Tirumal-1/Business-Insights-360-/blob/main/Doc1.png?raw=true)
-How to Access the Dashboard:
-Click here to view the live Power BI dashboard.
-Ensure you have an internet connection and a Power BI-compatible browser to experience the interactive features.
+ 
 How to Access the Dashboard:
 Click below to view the live Power BI dashboard.
 Ensure you have an internet connection and a Power BI-compatible browser to experience the interactive features.
